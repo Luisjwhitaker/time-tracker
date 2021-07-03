@@ -1,6 +1,6 @@
 import sqlite3
-#def log_sqlite(*data, database_name=None):
-#    print(data)
+def log_sqlite(*data, database_name=None):
+    print(f'Data Saved as {data}')
 
     # CREATE sqlite3 database:
     """conn = sqlite3.connect('time.db')
