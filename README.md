@@ -1,4 +1,4 @@
-#Trakky Time
+# Trakky Time
 
 ## Cloning and Running TrakkyTime
 1.Clone this Project:
