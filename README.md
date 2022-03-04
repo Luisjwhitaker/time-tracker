@@ -1,5 +1,5 @@
 # Trakky Time
-
+Trakky Time is an Activity and Time tracker for busy individuals who want to reclaim wasted time throughout the day.
 ## Cloning and Running TrakkyTime
 1. Clone this Project:
 ```
